@@ -1,6 +1,6 @@
 {
   "name": "xp-throttle-debounce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "throttle and debounce methods",
   "main": "lib/index.js",
   "repository": "git@github.com:excaliburhan/xp-throttle-debounce.git",
