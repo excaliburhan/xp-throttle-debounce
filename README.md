@@ -3,7 +3,7 @@ throttle and debounce methods
 
 ## Install
 
-> yarn add xp-throttle-debounce
+> npm i --save xp-throttle-debounce
 
 ## Usage
 
